@@ -1,6 +1,6 @@
 # Save timestamp to an EDL file with a shortcut
 
-This is a **simple python script** that upon pressing a key, writes a timestamp of the current time to a file in **CMX 3600 EDL** format. Easy to later import into editing programs and to sync with your recorded clip for easy clips editing.
+This is a **simple python script** that upon pressing a key, writes a timestamp of the current time (in seconds, minutes and hours from when the program started) to a file in **CMX 3600 EDL** format. Easy to later import into editing programs and to sync with your recorded clip for easy clips editing.
 Currently supports just **Davinci Resolve**, will add **Adobe Premiere** later on.
 
 If you're gonna run the python script **on its own**, you're gonna need to install the *"keyboard"* library.
