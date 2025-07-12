@@ -10,5 +10,6 @@ If the script can't find the config file (edltimestamps_config.ini), it's gonna 
 
 You wanna change the shortcuts but you're not sure how a key you want to set is called? Run the **key_finder.exe** or **key_finder.py** and follow the istructions.
 ---
+
 To **import** an **EDL file in Davinci Resolve**, right click on the timeline, then go to Timelines --> Import --> Timeline Markes from EDL... and simply choose the correct file.
 ![How to import EDL file in Resolve](https://i.imgur.com/Dkj8paw.png)
