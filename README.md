@@ -9,7 +9,7 @@ If you're gonna run the python script **on its own**, you're gonna need to insta
 If the script can't find the config file (edltimestamps_config.ini), it's gonna create one on its own in the same folder where the program or the script is, with **"alt gr+f10"** as a default for recording timestamps, and **"ctrl+del"** to stop the program.
 
 You wanna change the shortcuts but you're not sure how a key you want to set is called? Run the **key_finder.exe** or **key_finder.py** and follow the istructions.
----
 
+---
 To **import** an **EDL file in Davinci Resolve**, right click on the timeline, then go to Timelines --> Import --> Timeline Markes from EDL... and simply choose the correct file.
 ![How to import EDL file in Resolve](https://i.imgur.com/Dkj8paw.png)
